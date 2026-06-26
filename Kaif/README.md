@@ -10,6 +10,7 @@ This project demonstrates mastery over Data Wrangling and Exploratory Data Analy
 **Dataset:** [Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
 
 The dataset was loaded programmatically using the `kagglehub` library inside Google Colab — no manual CSV downloading or GUI uploading was used.
+[GOOGLE COLAB LINK: ](https://drive.google.com/file/d/15txYT6l3TU5IgcfV0I3vGzJNL9qUnO8V/view?usp=sharing)
 
 ---
 
